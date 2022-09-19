@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "docstring",
+    "oncran": true
+  }
+]
